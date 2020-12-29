@@ -1,0 +1,12 @@
+{
+  "name": "my_frist_node_express_project",
+  "version": "1.0.0",
+  "description": "node project with express",
+  "main": "index.js",
+  "author": "Md. Rabiul Hasan",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
